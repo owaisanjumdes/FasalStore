@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@400;500;600;700;800&family=Instrument+Serif:ital@0;1&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --color-fasal-bg: #f7f6f2;
+  --color-fasal-surface: #ffffff;
+  --color-fasal-text: #1a1916;
+  --color-fasal-muted: #7a7770;
+  --color-fasal-accent: #1a6b3c;
+  --color-fasal-accent-light: #2a8a52;
+  --color-fasal-blue: #1a4a8c;
+  --color-fasal-warn: #c4520a;
+  --color-fasal-gold: #9a6f0a;
+  --color-fasal-border: rgba(26, 25, 22, 0.08);
+
+  --font-sans: 'Epilogue', system-ui, sans-serif;
+  --font-serif: 'Instrument Serif', Georgia, serif;
+}
+
+body {
+  font-family: 'Epilogue', system-ui, sans-serif;
+  background-color: #f7f6f2;
+  color: #1a1916;
+}

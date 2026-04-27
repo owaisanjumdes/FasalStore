@@ -1,0 +1,60 @@
+[
+  {"id":1,"name":"Nagpur Storage 1","area":"Sitabuldi","crop":"orange","distance":4,"price":2.3,"capacity":600,"available":320,"rating":4.5},
+  {"id":2,"name":"Nagpur Storage 2","area":"Wardha Road","crop":"wheat","distance":8,"price":1.8,"capacity":800,"available":500,"rating":4.2},
+  {"id":3,"name":"Nagpur Storage 3","area":"Kamptee","crop":"rice","distance":12,"price":1.6,"capacity":700,"available":420,"rating":4.1},
+  {"id":4,"name":"Nagpur Storage 4","area":"Hingna","crop":"soybean","distance":10,"price":1.7,"capacity":900,"available":650,"rating":4.3},
+  {"id":5,"name":"Nagpur Storage 5","area":"Katol Road","crop":"orange","distance":20,"price":1.5,"capacity":1000,"available":720,"rating":4.6},
+  {"id":6,"name":"Nagpur Storage 6","area":"Butibori","crop":"cotton","distance":25,"price":1.4,"capacity":1200,"available":880,"rating":4.4},
+  {"id":7,"name":"Nagpur Storage 7","area":"Manewada","crop":"vegetables","distance":6,"price":2.0,"capacity":500,"available":210,"rating":4.0},
+  {"id":8,"name":"Nagpur Storage 8","area":"Kalamna","crop":"vegetables","distance":7,"price":2.1,"capacity":650,"available":300,"rating":4.0},
+  {"id":9,"name":"Nagpur Storage 9","area":"Wadi","crop":"orange","distance":9,"price":1.9,"capacity":700,"available":460,"rating":4.4},
+  {"id":10,"name":"Nagpur Storage 10","area":"MIHAN","crop":"soybean","distance":15,"price":1.6,"capacity":950,"available":600,"rating":4.3},
+
+  {"id":11,"name":"Nagpur Storage 11","area":"Sadar","crop":"wheat","distance":5,"price":2.2,"capacity":550,"available":300,"rating":4.2},
+  {"id":12,"name":"Nagpur Storage 12","area":"Jaripatka","crop":"rice","distance":9,"price":1.9,"capacity":600,"available":350,"rating":4.1},
+  {"id":13,"name":"Nagpur Storage 13","area":"Nandanvan","crop":"fruits","distance":6,"price":2.1,"capacity":500,"available":250,"rating":3.9},
+  {"id":14,"name":"Nagpur Storage 14","area":"Koradi Road","crop":"cotton","distance":18,"price":1.5,"capacity":850,"available":500,"rating":4.2},
+  {"id":15,"name":"Nagpur Storage 15","area":"Trimurti Nagar","crop":"vegetables","distance":7,"price":2.0,"capacity":650,"available":300,"rating":4.0},
+
+  {"id":16,"name":"Nagpur Storage 16","area":"Sitabuldi","crop":"orange","distance":5,"price":2.2,"capacity":620,"available":330,"rating":4.4},
+  {"id":17,"name":"Nagpur Storage 17","area":"Wardha Road","crop":"wheat","distance":9,"price":1.7,"capacity":780,"available":480,"rating":4.3},
+  {"id":18,"name":"Nagpur Storage 18","area":"Kamptee","crop":"rice","distance":13,"price":1.6,"capacity":720,"available":400,"rating":4.0},
+  {"id":19,"name":"Nagpur Storage 19","area":"Hingna","crop":"soybean","distance":11,"price":1.8,"capacity":880,"available":600,"rating":4.2},
+  {"id":20,"name":"Nagpur Storage 20","area":"Katol Road","crop":"orange","distance":21,"price":1.4,"capacity":1050,"available":750,"rating":4.6},
+
+  {"id":21,"name":"Nagpur Storage 21","area":"Butibori","crop":"cotton","distance":26,"price":1.4,"capacity":1150,"available":870,"rating":4.3},
+  {"id":22,"name":"Nagpur Storage 22","area":"Manewada","crop":"vegetables","distance":6,"price":2.0,"capacity":520,"available":200,"rating":4.1},
+  {"id":23,"name":"Nagpur Storage 23","area":"Kalamna","crop":"vegetables","distance":8,"price":2.2,"capacity":630,"available":290,"rating":4.0},
+  {"id":24,"name":"Nagpur Storage 24","area":"Wadi","crop":"orange","distance":10,"price":1.9,"capacity":690,"available":450,"rating":4.3},
+  {"id":25,"name":"Nagpur Storage 25","area":"MIHAN","crop":"soybean","distance":16,"price":1.6,"capacity":940,"available":610,"rating":4.2},
+
+  {"id":26,"name":"Nagpur Storage 26","area":"Sadar","crop":"wheat","distance":6,"price":2.1,"capacity":560,"available":310,"rating":4.1},
+  {"id":27,"name":"Nagpur Storage 27","area":"Jaripatka","crop":"rice","distance":10,"price":1.8,"capacity":610,"available":360,"rating":4.0},
+  {"id":28,"name":"Nagpur Storage 28","area":"Nandanvan","crop":"fruits","distance":7,"price":2.2,"capacity":510,"available":260,"rating":3.8},
+  {"id":29,"name":"Nagpur Storage 29","area":"Koradi Road","crop":"cotton","distance":19,"price":1.5,"capacity":840,"available":510,"rating":4.2},
+  {"id":30,"name":"Nagpur Storage 30","area":"Trimurti Nagar","crop":"vegetables","distance":8,"price":2.1,"capacity":660,"available":320,"rating":4.0},
+
+  {"id":31,"name":"Nagpur Storage 31","area":"Sitabuldi","crop":"orange","distance":4,"price":2.3,"capacity":610,"available":300,"rating":4.5},
+  {"id":32,"name":"Nagpur Storage 32","area":"Wardha Road","crop":"wheat","distance":9,"price":1.8,"capacity":790,"available":490,"rating":4.2},
+  {"id":33,"name":"Nagpur Storage 33","area":"Kamptee","crop":"rice","distance":13,"price":1.7,"capacity":710,"available":430,"rating":4.1},
+  {"id":34,"name":"Nagpur Storage 34","area":"Hingna","crop":"soybean","distance":11,"price":1.7,"capacity":910,"available":640,"rating":4.3},
+  {"id":35,"name":"Nagpur Storage 35","area":"Katol Road","crop":"orange","distance":22,"price":1.5,"capacity":1020,"available":710,"rating":4.6},
+
+  {"id":36,"name":"Nagpur Storage 36","area":"Butibori","crop":"cotton","distance":27,"price":1.4,"capacity":1180,"available":890,"rating":4.4},
+  {"id":37,"name":"Nagpur Storage 37","area":"Manewada","crop":"vegetables","distance":7,"price":2.0,"capacity":530,"available":220,"rating":4.0},
+  {"id":38,"name":"Nagpur Storage 38","area":"Kalamna","crop":"vegetables","distance":8,"price":2.1,"capacity":640,"available":310,"rating":4.0},
+  {"id":39,"name":"Nagpur Storage 39","area":"Wadi","crop":"orange","distance":10,"price":1.9,"capacity":680,"available":440,"rating":4.4},
+  {"id":40,"name":"Nagpur Storage 40","area":"MIHAN","crop":"soybean","distance":16,"price":1.6,"capacity":960,"available":620,"rating":4.3},
+
+  {"id":41,"name":"Nagpur Storage 41","area":"Sadar","crop":"wheat","distance":6,"price":2.2,"capacity":570,"available":320,"rating":4.2},
+  {"id":42,"name":"Nagpur Storage 42","area":"Jaripatka","crop":"rice","distance":10,"price":1.9,"capacity":620,"available":370,"rating":4.1},
+  {"id":43,"name":"Nagpur Storage 43","area":"Nandanvan","crop":"fruits","distance":7,"price":2.2,"capacity":520,"available":270,"rating":3.9},
+  {"id":44,"name":"Nagpur Storage 44","area":"Koradi Road","crop":"cotton","distance":19,"price":1.5,"capacity":860,"available":520,"rating":4.2},
+  {"id":45,"name":"Nagpur Storage 45","area":"Trimurti Nagar","crop":"vegetables","distance":8,"price":2.1,"capacity":670,"available":330,"rating":4.0},
+
+  {"id":46,"name":"Nagpur Storage 46","area":"Sitabuldi","crop":"orange","distance":5,"price":2.3,"capacity":630,"available":340,"rating":4.5},
+  {"id":47,"name":"Nagpur Storage 47","area":"Wardha Road","crop":"wheat","distance":9,"price":1.7,"capacity":770,"available":470,"rating":4.2},
+  {"id":48,"name":"Nagpur Storage 48","area":"Kamptee","crop":"rice","distance":14,"price":1.6,"capacity":730,"available":410,"rating":4.1},
+  {"id":49,"name":"Nagpur Storage 49","area":"Hingna","crop":"soybean","distance":12,"price":1.8,"capacity":890,"available":630,"rating":4.3},
+  {"id":50,"name":"Nagpur Storage 50","area":"Katol Road","crop":"orange","distance":22,"price":1.4,"capacity":1040,"available":740,"rating":4.6}
+]

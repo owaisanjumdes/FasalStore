@@ -1,0 +1,29 @@
+### Test 1: Health check (GET request)
+GET http://127.0.0.1:5000/
+
+### Test 2: Recommend storages for oranges
+POST http://127.0.0.1:5000/recommend
+Content-Type: application/json
+
+{
+  "crop": "orange"
+}
+
+### Test 3: Recommend storages for wheat
+POST http://127.0.0.1:5000/recommend
+Content-Type: application/json
+
+{
+  "crop": "wheat"
+}
+
+### Test 4: What happens with a crop that doesn't exist?
+POST http://127.0.0.1:5000/recommend
+Content-Type: application/json
+
+{
+  "crop": "mango"
+}
+
+### Test 5: Get all storages + filter options
+GET http://127.0.0.1:5000/storages
